@@ -1,5 +1,6 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Riley Hogan
 
-# Your Github username
+# rileyhogan
+
